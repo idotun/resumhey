@@ -1,0 +1,25 @@
+Marinka - Responsive CV. Resume and CV templates are clean and beautiful. You can put a few words about yourself, information about education, and the most important, that is skills, your contacts and work experience.
+
+Featured
+=================
+
+ 1. Profile
+ 2. Work
+ 3. Resume
+ 4. Blog
+ 5. Contact
+
+Featured Credit
+==================
+
+http://getbootstrap.com/
+https://google.com/fonts
+http://fortawesome.github.io/Font-Awesome/icons/
+https://github.com/arsenetoumani/jquery-portfolio
+http://w3lessons.info/2013/06/04/skill-bar-with-jquery-css3/
+http://markgoodyear.com/2013/01/scrollup-jquery-plugin/
+
+Photos Credit
+==================
+
+http://www.behance.net/sredainterior
